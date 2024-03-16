@@ -9,6 +9,6 @@ you can install here -> https://www.sfml-dev.org/download.php
 left click to make particles, right click to make force to control particles.
 
 
+Click image to watch
 
-
-https://www.youtube.com/watch?v=GAwqau3vBMc
+[![Video Label](http://img.youtube.com/vi/GAwqau3vBMc/0.jpg)](https://youtu.be/GAwqau3vBMc)
