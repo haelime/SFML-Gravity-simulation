@@ -21,6 +21,6 @@ gravity(force) should be multiplied by (distance ^ 2) in our physics, but i thou
 
 <br>
 
-### Click image to watch demo
+### Click image to watch beautiful demo
 
 [![Video Label](http://img.youtube.com/vi/GAwqau3vBMc/0.jpg)](https://youtu.be/GAwqau3vBMc)
